@@ -23,6 +23,11 @@ namespace ChonkyCat.Controllers
             return View();
         }
 
+        public IActionResult Chonk()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
