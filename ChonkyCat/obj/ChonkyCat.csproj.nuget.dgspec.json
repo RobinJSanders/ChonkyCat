@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj": {}
+    "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj": {}
   },
   "projects": {
-    "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj": {
+    "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj",
+        "projectUniqueName": "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj",
         "projectName": "ChonkyCat",
-        "projectPath": "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj",
+        "projectPath": "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj",
         "packagesPath": "C:\\Users\\Rob\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat\\obj\\",
+        "outputPath": "C:\\source\\ChonkyCat\\ChonkyCat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rob\\AppData\\Roaming\\NuGet\\NuGet.Config",

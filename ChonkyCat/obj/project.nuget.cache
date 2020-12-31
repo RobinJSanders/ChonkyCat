@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hMQ0VL73iGl+txKxGJgokDOnAGRzh9h7pTSJFNB4MDL+Medo4VDpJwd0s3l0f8EvMZkAUBsiVgukjmnntJ/Zsg==",
+  "dgSpecHash": "q951JZglRRw29D50esbim9Y9bSvRBxhqOPGcj2/CuJexIBKId8o4RTgWuijNBFm4CPNkjhPm+eVPahPheQF4kg==",
   "success": true,
-  "projectFilePath": "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj",
+  "projectFilePath": "C:\\source\\ChonkyCat\\ChonkyCat\\ChonkyCat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.10\\microsoft.aspnetcore.cryptography.internal.3.1.10.nupkg.sha512",
     "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.10\\microsoft.aspnetcore.cryptography.keyderivation.3.1.10.nupkg.sha512",

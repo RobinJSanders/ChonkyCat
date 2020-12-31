@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChonkyCat", "ChonkyCat\ChonkyCat.csproj", "{CEBAF502-DCD7-4C8A-8AB0-075D44033C07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChonkyCat", "ChonkyCat\ChonkyCat.csproj", "{D12EEE2A-F811-4D22-8F82-F5960E1FF4FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CEBAF502-DCD7-4C8A-8AB0-075D44033C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CEBAF502-DCD7-4C8A-8AB0-075D44033C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CEBAF502-DCD7-4C8A-8AB0-075D44033C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CEBAF502-DCD7-4C8A-8AB0-075D44033C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12EEE2A-F811-4D22-8F82-F5960E1FF4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12EEE2A-F811-4D22-8F82-F5960E1FF4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12EEE2A-F811-4D22-8F82-F5960E1FF4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12EEE2A-F811-4D22-8F82-F5960E1FF4FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {38E53396-4F12-4F21-89BC-983079CB039C}
+		SolutionGuid = {B3FC1DF1-BEF3-427D-BBC5-E5EBDE4E70E4}
 	EndGlobalSection
 EndGlobal

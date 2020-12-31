@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>aspnet-ChonkyCat-500CF08A-AF6B-47FA-AB52-F7FC949A001F</UserSecretsId>
+    <UserSecretsId>aspnet-ChonkyCat-A31DCE7D-0D8E-487F-B412-5E6D205A186F</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
